@@ -1,0 +1,1 @@
+# moodle-local_ls2_copy

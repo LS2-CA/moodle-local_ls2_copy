@@ -23,8 +23,7 @@
  * @link      https://ls2.io
  */
 
-use core_privacy\local\metadata\collection;
-use core_privacy\local\metadata\external_location;
+namespace local_ls2_copy\privacy;
 
 /**
  * Data provider for local_ls2_copy.

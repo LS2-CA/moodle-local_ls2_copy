@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub repository for the [Teameo & Classeo Moodle Advanced Copy Plugin], a robust solution designed to enhance Moodle Class Copy. This plugin facilitates copying class content between classes.
 
+This plugin **requires a subscription** by your college or university to [Teameo.io](https://teameo.io) or [Classeo.io](https://classeo.io) to work.
+
 Explore more: 
 - **[Teameo.io](https://teameo.io)**
 - **[Classeo.io](https://classeo.io)**

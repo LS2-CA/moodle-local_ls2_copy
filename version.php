@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'local_ls2_copy';    // Full name of the plugin (used for diagnostics).
-$plugin->version   = 2025040900;        // The current plugin version (Date: YYYYMMDDXX).
-$plugin->release   = 'v0.1.0';
+$plugin->version   = 2025052200;        // The current plugin version (Date: YYYYMMDDXX).
+$plugin->release   = 'v0.1.1';
 $plugin->maturity  = MATURITY_STABLE;
 $plugin->requires  = 2020061500;        // Requires this Moodle version.
